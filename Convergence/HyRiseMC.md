@@ -6,5 +6,6 @@
 - Huggy Wuggy
 
 # Items
+- Antivirus
 
 # QoL
