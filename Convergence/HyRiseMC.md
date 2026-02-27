@@ -1,5 +1,6 @@
 # Mechanics
 - lose a heart on death
+- silk touch spawners
 
 # Mobs
 - Huggy Wuggy
