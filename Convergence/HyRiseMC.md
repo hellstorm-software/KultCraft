@@ -6,6 +6,7 @@
 - Huggy Wuggy
 
 # Items
-- Antivirus
+- Anti-Virus
+    - craft with 5 diamonds and 4 leather
 
 # QoL
