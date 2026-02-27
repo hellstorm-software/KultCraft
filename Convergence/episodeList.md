@@ -3,3 +3,4 @@
 - Ep 2: no_moon.jar
 - Ep 3: Building the most secure trophy room
 - Ep 4: Flywheel of Terror
+- Ep 5: wonderland.jar
