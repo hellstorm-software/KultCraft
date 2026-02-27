@@ -1,6 +1,7 @@
 # Mechanics
 - lose a heart on death
 - silk touch spawners
+- extract Xp into bottles
 
 # Mobs
 - Huggy Wuggy
