@@ -1,1 +1,1 @@
-Convergence is
+Convergence is an unscripted series where i use reality shards to travel from my forever world, 
