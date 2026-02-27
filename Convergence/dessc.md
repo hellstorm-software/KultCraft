@@ -1,1 +1,1 @@
-Convergence is an unscripted series where i use reality shards to travel from my forever world into other dimensions.
+Convergence is an unscripted series where i use reality shards to travel from my forever world into other dimensions. Ones inhabited by strange beings, new worlds, 
