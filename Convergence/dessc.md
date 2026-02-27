@@ -1,1 +1,1 @@
-Convergence is an unscripted series where Kyphxr use reality shards to travel from my forever world into other dimensions. Ones inhabited by strange beings, new worlds, and legendary artifacts I mist obtain. 
+Convergence is an unscripted series where Kyphxr use reality shards to travel from my forever world into other dimensions. Ones inhabited by strange beings, new worlds, and legendary artifacts I must obtain. 
