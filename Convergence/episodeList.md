@@ -1,4 +1,4 @@
-- Pilot: Starting Hytale and tearing reality
+- Pilot: Starting Hytale and tearing realit
     - Ep 1.5: Digging a hole
 - Ep 2: no_moon.jar
 - Ep 3: Building the most secure trophy room
