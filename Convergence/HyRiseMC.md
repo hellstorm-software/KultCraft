@@ -6,6 +6,8 @@
 - Huggy Wuggy
 
 # Weapons
+- Axe of the void
+    - craft with 4 fireballs, 4 void fragments, and 1 netherite axe
 
 # Items
 - Anti-Virus
