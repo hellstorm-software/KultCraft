@@ -5,4 +5,6 @@
 # Mobs
 - Huggy Wuggy
 
+# Items
+
 # QoL
