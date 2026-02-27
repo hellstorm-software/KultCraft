@@ -5,6 +5,8 @@
 # Mobs
 - Huggy Wuggy
 
+# Weapons
+
 # Items
 - Anti-Virus
     - craft with 5 diamonds and 4 leather
