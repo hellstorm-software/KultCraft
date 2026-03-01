@@ -3,6 +3,7 @@
 Players:
 
 Mobs:
+- Mobs cannot break blocks within 1000 blocks of spawn
 
 Items:
 
