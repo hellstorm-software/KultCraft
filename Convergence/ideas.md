@@ -1,3 +1,13 @@
+# Rules
+
+Players:
+
+Mobs:
+
+
+
+
+-----
 # World
 
 
