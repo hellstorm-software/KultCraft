@@ -1,4 +1,4 @@
-Convergence is an unscripted series where Kyphxr use reality shards to travel from his forever world into other dimensions. Ones inhabited by strange beings, new worlds, and legendary artifacts Kyphxr must obtain. 
+Convergence is an unscripted series where Kyphxr uses reality shards to travel from his forever world into other dimensions. Ones inhabited by strange beings, new worlds, and legendary artifacts Kyphxr must obtain. 
 
 This is a modded hardcore series that operates on the rules of the Lifesteal SMP, the deadliest server in Minecraft. Each life I loose permanently reduces my max HP, and if i reach 0, I will be banned. 
 
