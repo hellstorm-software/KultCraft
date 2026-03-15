@@ -1,0 +1,14 @@
+- Condensed Cobblestone
+- Stacked Cobblestone
+- Condensed Sandstone
+- Stacked Sandstone
+- Condensed Cobbled Deepslate
+- Stacked Cobbled Deepslate
+- Condensed Obsidian
+- Stacked Obsidian
+- Condensed Sand
+- Stacked Sand
+- Condensed Red Sand
+- Stacked Red Sand
+- Condensed Redstone Blocks
+- Stacked Redstone Blocks
