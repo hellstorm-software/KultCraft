@@ -1,9 +1,17 @@
-- Unstable.smp (Overworld)
+## Main Dimensions
+
+- [[Unstable.smp]] (Overworld)
 - Nether
 - End
-- [[err.corruption]] (old world skyblock)
-- Aether
+- [[Aether]]
 - Twilight Forest
-- C-137
+- [[C-137]]
+- [[2B.2T]]
+- [[Space]]
+
+
+### Lore Dimensions
+- [[err.corruption]] (old world skyblock)
 - Ashlands
-- 2B.2T
+- Farlands
+
