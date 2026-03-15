@@ -1,7 +1,7 @@
-- Overworld
+- Unstable.smp (Overworld)
 - Nether
 - End
-- err.corruption (old world skyblock)
+- [[err.corruption]] (old world skyblock)
 - Aether
 - Twilight Forest
 - C-137
