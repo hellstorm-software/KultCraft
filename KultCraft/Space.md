@@ -4,4 +4,4 @@ Video Showcase:
 
 
 --—-
-This dimension is meant to be more of an exploration zone than a true survival zone. 
+This dimension is meant to be more of an exploration zone than a true survival zone, as it mostly exists to allow for the construction of Endlantis while also allowing the ender dragon to be fought. 
