@@ -5,3 +5,5 @@ Video Showcase:
 
 --—-
 Spears behave the same way as they do in Vanilla 1.21, with a slow primary attack, and a secondary attack that does damage based on the wielder’s speed. 
+
+(It should be noted that attribute swapping is currently not possible with the Backported Spears)
