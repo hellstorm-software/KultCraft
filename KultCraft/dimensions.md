@@ -4,3 +4,5 @@
 - err.corruption (old world skyblock)
 - Aether
 - Twilight Forest
+- Placeholder
+- Ashlands
