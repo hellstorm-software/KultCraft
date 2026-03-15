@@ -3,6 +3,7 @@ Blocks:
 
 Items:
 - Enchanted Cobblestone
+- Enchanted Sandstone
 
 # Condensed Blocks:
 
