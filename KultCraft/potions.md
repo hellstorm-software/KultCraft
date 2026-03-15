@@ -1,0 +1,5 @@
+- Potion of Infestation
+- Potion of Oozing
+- Potion of Weaving
+- Potion of Windcharging
+- Ominous Potions
