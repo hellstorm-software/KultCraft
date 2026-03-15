@@ -1,7 +1,12 @@
-# Core:
+# Core
+Blocks:
+
+Items:
+- Enchanted Cobblestone
 
 # Condensed Blocks:
 
+### Condensed/Stacked Blocks
 Blocks:
 - Cobblestone
 - Sandstone
