@@ -6,6 +6,7 @@ Blocks:
 - Cobblestone
 - Sandstone
 - Cobbled Deepslate
+- Obsidian
 
 Items:
 - Diamonds
