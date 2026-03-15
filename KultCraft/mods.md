@@ -4,6 +4,7 @@ Blocks:
 Items:
 - Enchanted Cobblestone
 - Enchanted Sandstone
+- Enchanted Netherrack
 
 # Condensed Blocks:
 
