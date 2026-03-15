@@ -5,6 +5,8 @@ Items:
 - Enchanted Cobblestone
 - Enchanted Sandstone
 - Enchanted Netherrack
+- Mouseiron
+- Mold
 
 # Condensed Blocks:
 
