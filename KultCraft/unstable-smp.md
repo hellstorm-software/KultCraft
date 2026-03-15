@@ -1,0 +1,1 @@
+The overworld dimension of Convergence SMP is occupied by Unstable SMP. It is a semi-hostile dimension where a majority of the quests and NPCs can be found. 
