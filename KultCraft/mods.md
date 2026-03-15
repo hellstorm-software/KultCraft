@@ -5,6 +5,7 @@
 Blocks:
 - Cobblestone
 - Sandstone
+- Netherrack
 - Cobbled Deepslate
 - Obsidian
 
