@@ -1,6 +1,6 @@
-Core:
+# Core:
 
-Condensed Blocks:
+# Condensed Blocks:
 - Cobblestone
 - Sandstone
 - Cobbled Deepslate
