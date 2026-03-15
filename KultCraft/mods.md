@@ -8,6 +8,8 @@ Blocks:
 - Netherrack
 - Cobbled Deepslate
 - Obsidian
+- Sand
+- Dirt
 
 Items:
 - Diamonds
