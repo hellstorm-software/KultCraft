@@ -1,0 +1,3 @@
+Core:
+
+Condensed Blocks:
