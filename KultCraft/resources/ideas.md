@@ -1,1 +1,3 @@
 - low shield
+
+- directional redstone
