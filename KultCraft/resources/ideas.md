@@ -1,3 +1,3 @@
 - low shield
-
+- low fire
 - directional redstone
