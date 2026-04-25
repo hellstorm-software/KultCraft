@@ -1,1 +1,2 @@
 - customers shopping
+- customizable NPCs
