@@ -1,3 +1,4 @@
 - customers shopping
 - customizable NPCs
 - divergent NPC interactions
+- NPC Relationships
