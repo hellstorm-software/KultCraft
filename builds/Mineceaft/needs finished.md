@@ -1,1 +1,2 @@
 - Gold farm
+- fix iron farm
