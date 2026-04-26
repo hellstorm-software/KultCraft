@@ -3,3 +3,4 @@
 - weed trading hall
 - aether gold dungeon
 - item sorter/storage system
+- second tower
