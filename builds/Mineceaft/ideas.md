@@ -5,3 +5,4 @@
 - move arburian xp farm
 - add armadillo-like scp
 - shulker farm
+- gold farm
