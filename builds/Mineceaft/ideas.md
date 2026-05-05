@@ -2,3 +2,4 @@
     - alarm system
     - room messaging system
 - proximity room
+- move arburian xp farm
