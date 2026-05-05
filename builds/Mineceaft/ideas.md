@@ -3,3 +3,4 @@
     - room messaging system
 - proximity room
 - move arburian xp farm
+- add armadillo-like scp
