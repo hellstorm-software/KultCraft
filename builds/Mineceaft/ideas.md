@@ -6,3 +6,4 @@
 - add armadillo-like scp
 - shulker farm
 - gold farm
+- neurmite mine
