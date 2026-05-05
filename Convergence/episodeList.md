@@ -6,6 +6,7 @@
 - Ep 5: marlow mod
 - Ep 6: 420 mod
 - Ep 7: Aether
+- Ep 8: pixL debut
 
 -----
 
