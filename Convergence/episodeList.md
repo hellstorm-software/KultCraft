@@ -8,6 +8,9 @@
 - Ep 7: Aether
 - Ep 8: pixL debut
 
+- Pet collection
+
+
 -----
 
 - Pilot: Starting Hytale and tearing reality
