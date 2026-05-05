@@ -4,8 +4,7 @@
 - Ep 3: no_moon.jar end
 - Ep 4: iron farm
 - Ep 5: marlow mod
-
-- 
+- Ep 6: 420 mod
 
 -----
 
