@@ -5,6 +5,7 @@
 - Ep 4: iron farm
 - Ep 5: marlow mod
 - Ep 6: 420 mod
+- Ep 7: Aether
 
 -----
 
