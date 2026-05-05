@@ -1,2 +1,3 @@
 - minimal particles
 - crystal optimizations
+- fix fire
