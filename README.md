@@ -16,7 +16,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 
 ----------------------------------------------------------
 
-<h2>[JAN]</h2>
+<h2>[JAN]</h2> 
 
 ----------------------------------------------------------
 
